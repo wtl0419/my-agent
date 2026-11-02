@@ -1,0 +1,8 @@
+@"
+.env
+venv/
+__pycache__/
+state/*.json
+.playwright/
+node_modules/
+"@ | Out-File -FilePath .gitignore -Encoding utf8

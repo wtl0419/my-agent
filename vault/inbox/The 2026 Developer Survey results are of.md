@@ -1,0 +1,31 @@
+# The 2026 Developer Survey results are officially here
+
+- **发件人**: "Stack Overflow" <do-not-reply@hello.stackoverflow.email>
+- **时间**: Tue, 06 Oct 2026 14:42:35 +0000
+- **Message-ID**: <CB.4E.27425.BD805CA6@i-096fcf1f3f1f8fc34.mta1vrest.sd.prd.sparkpost>
+
+---
+
+The wait is over    Stack Overflow  Stack Overflow Developer
+Survey 2026 
+( https://clicks.stackoverflow.email/f/a/2d7Q2A5uxIvEu6BesT0RCw~~/AAQRxRA~/YpSOmx1cm_YC9nc9NC467G3KVdkaae_Yq8V-_jb64mm_DkkyRnB-OlOdfVr8oXdqLBGF-e2EKrE0WinIOcV6T9-W0PHXs5o5cdVP1_6hPFx5Sw5qDwWGGXWx3gc9mWsjcnGQyUIMtppzuKIf8ttCq6QkEXj97JDm4M-YrXifbzIVOj5tOaVtWp1L0b-HS-0c4VpzuC8E9gDhqIbaNdr0sAjHDxvfeV0YyYi5ZWbpQsQTyi1x5yt3_8Xws1iIwZsGK1t3cgk-AoMpJZygz8I2nQ~~ )
+   The 2026 Developer Survey results are live. We asked
+thousands of developers about their workflows, favorite tools,
+and biggest roadblocks. The results give a clear picture of what
+the industry looks like right now. Find out what technologies are
+gaining traction and which ones are losing momentum.
+
+See the results ➔  
+( https://clicks.stackoverflow.email/f/a/f8sioJqKwdzP65L92QnRtA~~/AAQRxRA~/YpSOmx1cm_YC9nc9NC467G3KVdkaae_Yq8V-_jb64mm_DkkyRnB-OlOdfVr8oXdqLBGF-e2EKrE0WinIOcV6T9-W0PHXs5o5cdVP1_6hPFx5Sw5qDwWGGXWx3gc9mWsjcnGQyUIMtppzuKIf8ttCq6QkEXj97JDm4M-YrXifbzKd5BYwRfJBpv-M2kpektzc9RHe17ongyACOWBfIrlaoWKtRgDBuXz8neGF4UEe5o72lkFg5uGmVxSYpBC4VFbYuiJJAR4mJGGaRBp5muZWDA~~ )
+       Unsubscribe ( https://clicks.stackoverflow.email/f/a/kZlVe9fVHCWemkZBz0qFuA~~/AAQRxRA~/9Qgig8d2ebN5KHq3CC8Je-ln5i8PC6Nqzb9gYYOOLIsSy5oXjbIwi7c2dDUTY0BnlqitYbz6AGUHanFu7NWaFte3HGncT0M4IrVOIa1Q5yATMEOfMvGYB4L0O4qScW_Yy06sfWpgaAHI2nb4KfbMBDnVzLzXysQhB1fgdg851P7AYUm-7L3WO8nGzAeqyRUfck0v5dDPKxnNJYH0fv73la33MyD0N-biThMGbxRbA1q82a2LVCrTWahOy68sC8hea9bNfEMOh1j6Y0DqN3kPhR_mpdHQvG2ShLG-PaAbWzZDSRAGUg7rzXqY8HttE1Kl3eibI0XWu23bNdhHpsxLcxFcFQCkyFRrZcWfii3zZv_1wu9WR_nwSHwRHqx5eTST9vHRylVOipbSBX_49CrFxA9DA6-hyw70uaG6mgGHI3m1UYBahB3AcNSK4lzTcQNFToaeNKt-xuwwJdcGSNQjNq4kOOWYQlA-Jf5PU2RXUQQXVO5WsPYAAfnReMLa6vO7mrQjKCbAso7xwAaqwnKL2Ku3j-xWdJTQz06Qb30N_1JMTtUg9NB_JoKKPQp9afvfiPsdKDN_hhYVrVKkKzHORnVYo_UWFQLyx8Gkc6jckIS4BF9E5tkUvOXDOkkSZob6IZFp57RlP99IJriflNKD4g~~ ) Edit
+email settings ( https://clicks.stackoverflow.email/f/a/WZIpunC3wIKyYMajbPINiw~~/AAQRxRA~/pGT9DtmbegwkvXcPSp5338nFy5SrmkQuVCt30XDVzFO3X_0kBWGKj7C5glkYCaitaJrZQz8b0rXP4BYDLeoczH40eqydthtJw2-pzPa1mREw3pFYgQZC2hMTEqfpKwVLSc9nCNlRlJkg7w-xEyvBlm20Y5wA8A1cr61XHKVLPoOpXXvF3_M_ygkAB-HsWykZcvDeget4QHznBvlf5rOQilgzKPnQyBGY8qIWLxIQYVGJyTUM_4k22sbPLQOygQno4sZSLy6T6UeXRv5_CniVR2ihbQKBTsFHT8Qtoi6O97ihbv5TSFNQjey-tVVf-pcSumBMzwnSpjZVFCs54T9oJ8cajiuc3tHIzlBOEP3NsglbSh0iXqt8Pu-eHJH-oR4Yzz-cTxYlmKpcxdj1VrpRTh7BVfXhaCgXL-zsHe0hj9agmk5VMZRvBBWWLRuITQKwPtrxJnUM6-kZGeiQzvOHoDhIJxBXl4JN-zP-Rg7pkUh9ZmpPEcFETBUJFMbS0gLQf3SmFOpEoXdnIz_uV7qUqzmJDJqB4uGXJBgi6gtxob2VzdikzEDtpTfIEnGfZ-X9iSn3W7ktLTUc43Dvu3GP4Ilbov2jneen-h4W6v6uS_BjiiWciFuqp5c3G2oanIhsE894alnFOtGro9ix8N_IxvxetDaHLNMVn99FIrnhMEd8kXwyc9HECONQQm_hR7BdYGaMT5p7xIYRrYk2wVtTKH2JVuzwCEjqCWqMxgy3GCi3iuS_P5dqr8HwnPmBZ-cC8EASCa53DY4ikg6KhMMb6kva4MyAbJbjWdzrsAfjF-3kF7Q1YLfBztKmkR_gENNv0DYf0ymZ7TIBnXqKBfDmoHmxAE0WDtuI4HIjdNSFK3D7poBEPw2yWGOsU6kJND-Tq7ojqSiGG7IIjcacaxWrWUQQv1LLrozCzVOKg_2ht7xQT8fOpn6P_XAtFn3Ml_cMlaiTE1t2d1h83BCMuKFz6C3cPdtAX5AIXyo9CFUQclsJ5oGXPwbZinGOcA_5RrHCYxnHwpdVWwx1GdUt-dORDzEp5dx06MOLdNTs-gV0K9AxjVMu-4MBla1vJlyN8WELUfYgyw6j7ysMF_zMnnByrA~~ ) Contact
+us 
+( https://clicks.stackoverflow.email/f/a/SzoOSD1V0fHDIisVm4lx1A~~/AAQRxRA~/u1qaR0jfE5p3XWAvZW3ywDCXSjQlQAsw13L_YN_doOdysniK0xpXrreEqe_4-xn8ecAdB5fJ1QYDg4aZWIXNaTEzdmp-YKVCeon4JvSFfFUcZi4zOUakBEoYKW6gwjCFsBN9iwN-XxQRUStY4d68i2ZJQDYT9VreuVzAXKN_XB3WdD6YsdHkLXgNkmd4bOUsT4jiL-QNV-YDdjsep5qUgKcjS64a1hxAik36Vb3Jh6A~ )
+ Privacy 
+( https://clicks.stackoverflow.email/f/a/eh7C7QBS1-IJnK8EfcVwNg~~/AAQRxRA~/-6TqAHiObYaiqCGShoIHNd3oX79d7avHlfrn6nAfWhYCsEKNhqfl1aW9EQMtVXP-eAJrmoYmeAUbd1LcQcovFSOEGYSeirzC866eOr29bwjPKWCBpUEWGbcoZG2D8JhjHJJ9w09LUDxWhuus-wRqEwYKuDUMwBuSc10Rl2UWVIPwkun5EMASTvO40As_3guhri0eseLyYlx8N60ctlQY7s1moc_iXA7NSHK0TGMf2gvJjLeQR12tfSAENDKcDcgZ )
+
+
+14 Wall Street, 20th Floor, New York, NY 10005
+
+© Stack Exchange Inc.                    All
+rights reserved
